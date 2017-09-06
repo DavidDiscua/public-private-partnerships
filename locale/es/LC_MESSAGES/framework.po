@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Open Contracting Data Standard for Public Private Partnerships 1.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-31 17:41+0100\n"
+"POT-Creation-Date: 2017-08-29 14:31+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Oscar Montiel <oscar.montiel@okfn.org>, 2017\n"
 "Language-Team: Spanish (https://www.transifex.com/OpenDataServices/teams/74632/es/)\n"
@@ -1232,10 +1232,10 @@ msgstr "Fechas de varias aprobaciones"
 #: ../docs/framework.md:685
 msgid ""
 "This information can be provided using the [milestones "
-"extension](../../extensions/milestones/)."
+"extension](../extensions/milestones/)."
 msgstr ""
 "Esta información puede ser proporcionada usando la [extensión de "
-"hitos](../../extensions/milestones/)."
+"hitos](../extensions/milestones/)."
 
 #: ../docs/framework.md:687
 msgid ""
@@ -1564,19 +1564,19 @@ msgstr ""
 
 #: ../docs/examples/full.json:1 ../docs/examples/full.json:1
 msgid "tender/contractPeriod/startDate"
-msgstr ""
+msgstr "tender/contractPeriod/startDate"
 
 #: ../docs/examples/full.json:1 ../docs/examples/full.json:1
 msgid "tender/contractPeriod/endDate"
-msgstr ""
+msgstr "tender/contractPeriod/endDate"
 
 #: ../docs/examples/full.json:1 ../docs/examples/full.json:1
 msgid "2016-01-24T00:00:00Z"
-msgstr ""
+msgstr "2016-01-24T00:00:00Z"
 
 #: ../docs/examples/full.json:1 ../docs/examples/full.json:1
 msgid "2036-01-23T00:00:00Z"
-msgstr ""
+msgstr "2036-01-23T00:00:00Z"
 
 #: ../docs/framework.md:0
 msgid "I.13. Contract documents"
@@ -1593,7 +1593,7 @@ msgid ""
 "```status``` of 'pending' up until it is signed). OCDS provides a [document "
 "building block](_static/reference/#document) for disclosure of documents "
 "which has [a number of available extensions for PPP use "
-"cases](../../extensions/documentation_details/)"
+"cases](../extensions/documentation_details/)"
 msgstr ""
 "Los vínculos a los documentos contractuales pueden proporcionarse utilizando"
 " el campo ```documents``` en la sección ```contract``` de una entrega de "
